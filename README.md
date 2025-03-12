@@ -1,4 +1,4 @@
-# Task Management Testing Suite
+# Task Management Testing
 
 ## Overview
 This repository contains the automated and performance testing scripts for the Task Management application.
